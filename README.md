@@ -4,6 +4,8 @@ Theoretically supports iOS 27 (24A437A). Untested.
 
 If the account is still active after running the script, please try to restore all settings of the mobile phone.
 
+python3 hide.py
+
 ## Result
 
 ![Successful attack output](assets/attack-success.png)
